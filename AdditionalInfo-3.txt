@@ -1,0 +1,5 @@
+Karar yapıları
+
+=>Koşul doğruysa içini uygulayacaktır.
+=>truthy values de geçerlidir.
+=>Truthy values o değerin varlığına ilişkin değerdir.

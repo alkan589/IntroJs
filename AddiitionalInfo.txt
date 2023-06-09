@@ -1,0 +1,43 @@
+#Değişken(variables) tanımlamak için tipler diğer deyişle primitive types
+
+#const let var ortak özellikler
+=>Sıra önemlidir
+
+#const ve let farkı
+=> const sabit değerleri tanımlarken,let değişebilir
+
+const pi=3.1234
+pi=3.14 //error
+=>Reassignable değildir.
+
+let radius=5
+radius=10 //no error
+
+=>Reassignable'dır
+
+=>Diğer fark ise erişimdir.Bu konuda let ve const arasında herhangi fark yokken,
+2015(es6)ile var keywordü javascripte katıldı.
+
+=>Üçü içinde hoisting farkının önemli olduğunu söylemekte fayda var.(derste anlatılacak)
+
+=>İlkel veri tipleri(primitive types)
+String: METİN ODAKLI
+Number :RAKAMLAR
+Boolean :Doğru yanlış (truthy and falsy values)
+Bigint :Yaygın  değildir
+Symbol :Yaygın değildir
+Undefined :tanımsız
+Null : boş deger
+
+Eğer null value yi ekrana basarsanız Undefined alırsınız
+
+=>Objeler
+Objects:Sınıflar,komplike ilkel tipler,fonksiyonlar
+
+{
+    id:1,
+    title:"agah",
+    description:"istanbul polisiyesi"
+}
+
+Bu dersin konusu değildir.

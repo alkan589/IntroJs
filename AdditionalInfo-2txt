@@ -1,0 +1,9 @@
+toLocalUppercase,toLocalLowercase:büyük/küçük harf değiştirir ve de string döner.
+includes:doğruluk değeri döner,parametre olarak aramak istediğimiz string i alır.
+concat:ekleme işlemi yapar.
+endswith,startwith:doğruluk değeri döner.başlıyorsa yada bitiyorsa değeri alır.
+split:spesifik değer için stringi parçalar.
+length:string uzunluğunu hesaplar.
+charAt:herhangi değerin indisini söyler.
+ 
+
